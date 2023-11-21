@@ -47,5 +47,5 @@ Once we have verified this new microservice works we can remove the old code pat
 2. Deploy the services onto your cluster: 
 
    ```
-$ ./deploy.sh <region> <stack name>
+ $ ./deploy.sh <region> <stack name>
    ```
